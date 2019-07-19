@@ -1,4 +1,7 @@
+<img src="https://i.imgur.com/Y6EMKKg.jpg" style="float: left; margin: 15px;" width="75">
+
 ## Executive Summary of Project 4: FEMA Lifelines Categorization for Disaster Response
+---
 
 As climate change rapidly alters the world we live in, governments and NGOs need to be prepared to quickly, efficiently, and effectively respond to any form of disaster. The chance to make a real difference in the lives of those experiencing the unthinkable is exactly why our team was so interested in working with New Light Technologies.
 

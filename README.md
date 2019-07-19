@@ -1,4 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: FEMA Lifelines Categorization for Disaster Response
+<img src="https://i.imgur.com/Y6EMKKg.jpg" style="float: left; margin: 15px;" width="75">
+
+# Project 4: FEMA Lifelines Categorization for Disaster Response
 
 ## Project Introduction
 
